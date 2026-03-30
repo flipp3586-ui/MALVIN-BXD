@@ -1,4 +1,7 @@
-
+name": "malvin-bxd-1",
+  "version": "1.5.0",
+  "description": "Automated whatsapp md bot created using nodejs and baileys lib",
+  "main": "index.js
 
 
 <div align="center">
